@@ -7,3 +7,4 @@ C:\notSystem\git\Knucklebones\Project\Knucklebones\obj\Debug\Knucklebones.csproj
 C:\notSystem\git\Knucklebones\Project\Knucklebones\obj\Debug\Knucklebones.csproj.CoreCompileInputs.cache
 C:\notSystem\git\Knucklebones\Project\Knucklebones\obj\Debug\Knucklebones.exe
 C:\notSystem\git\Knucklebones\Project\Knucklebones\obj\Debug\Knucklebones.pdb
+C:\notSystem\git\Knucklebones\Project\Knucklebones\obj\Debug\Knucklebones.Form1.resources

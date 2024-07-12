@@ -29,11 +29,31 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.button = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // button
+            // 
+            this.button.Location = new System.Drawing.Point(174, 112);
+            this.button.Name = "button";
+            this.button.Size = new System.Drawing.Size(168, 128);
+            this.button.TabIndex = 0;
+            this.button.Text = "Tap";
+            this.button.UseVisualStyleBackColor = true;
+            this.button.Click += new System.EventHandler(this.button_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(518, 379);
+            this.Controls.Add(this.button);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.ResumeLayout(false);
         }
+
+        private System.Windows.Forms.Button button;
 
         #endregion
     }
