@@ -1,44 +1,15 @@
-usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [--config-env=<name>=<envvar>] <command> [<args>]
+This project is a mini game "Knucklesbones" from the larger "Cult of the lamb" game
+Rules of the game itself:
 
-These are common Git commands used in various situations:
+Players take turns rolling a single six-sided die and placing it on their side of the board. Each player has their own 3x3 grid, and their score is the total of all the dice currently placed there. When one player has filled all nine slots on their board, the game ends, and the player with the highest score wins.
 
-start a working area (see also: git help tutorial)
-   clone     Clone a repository into a new directory
-   init      Create an empty Git repository or reinitialize an existing one
+Each player's grid is divided into three columns. If a player has two or three dice showing the same number in a single column, their values are added together and multiplied by the number of matches.
 
-work on the current change (see also: git help everyday)
-   add       Add file contents to the index
-   mv        Move or rename a file, a directory, or a symlink
-   restore   Restore working tree files
-   rm        Remove files from the working tree and from the index
+If a player places a die that matches one or more dice in their opponent's corresponding column, all of their opponent's matching dice are removed. This allows you to get rid of high-scoring dice, even doubles or triples, as long as you have somewhere for your matching die to go.
 
-examine the history and state (see also: git help revisions)
-   bisect    Use binary search to find the commit that introduced a bug
-   diff      Show changes between commits, commit and working tree, etc
-   grep      Print lines matching a pattern
-   log       Show commit logs
-   show      Show various types of objects
-   status    Show the working tree status
+While the game is luck-based, being strategic with your die placement is the best way to win consistently.
 
-grow, mark and tweak your common history
-   branch    List, create, or delete branches
-   commit    Record changes to the repository
-   merge     Join two or more development histories together
-   rebase    Reapply commits on top of another base tip
-   reset     Reset current HEAD to the specified state
-   switch    Switch branches
-   tag       Create, list, delete or verify a tag object signed with GPG
-
-collaborate (see also: git help workflows)
-   fetch     Download objects and refs from another repository
-   pull      Fetch from and integrate with another repository or a local branch
-   push      Update remote refs along with associated objects
-
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+contacts:
+tg - https://t.me/Busska
++89120041278
+nikita_maximov05@mail.ru
