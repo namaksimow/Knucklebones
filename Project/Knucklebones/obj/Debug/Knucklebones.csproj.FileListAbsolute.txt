@@ -1,0 +1,9 @@
+C:\notSystem\git\Knucklebones\Project\Knucklebones\bin\Debug\Knucklebones.exe.config
+C:\notSystem\git\Knucklebones\Project\Knucklebones\bin\Debug\Knucklebones.exe
+C:\notSystem\git\Knucklebones\Project\Knucklebones\bin\Debug\Knucklebones.pdb
+C:\notSystem\git\Knucklebones\Project\Knucklebones\obj\Debug\Knucklebones.csproj.AssemblyReference.cache
+C:\notSystem\git\Knucklebones\Project\Knucklebones\obj\Debug\Knucklebones.Properties.Resources.resources
+C:\notSystem\git\Knucklebones\Project\Knucklebones\obj\Debug\Knucklebones.csproj.GenerateResource.cache
+C:\notSystem\git\Knucklebones\Project\Knucklebones\obj\Debug\Knucklebones.csproj.CoreCompileInputs.cache
+C:\notSystem\git\Knucklebones\Project\Knucklebones\obj\Debug\Knucklebones.exe
+C:\notSystem\git\Knucklebones\Project\Knucklebones\obj\Debug\Knucklebones.pdb
