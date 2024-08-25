@@ -5,11 +5,10 @@ Players take turns rolling a single six-sided die and placing it on their side o
 
 Each player's grid is divided into three columns. If a player has two or three dice showing the same number in a single column, their values are added together and multiplied by the number of matches.
 
-If a player places a die that matches one or more dice in their opponent's corresponding column, all of their opponent's matching dice are removed. This allows you to get rid of high-scoring dice, even doubles or triples, as long as you have somewhere for your matching die to go.
+If a player places a dice that matches one or more dice in their opponent's corresponding column, all of their opponent's matching dice are removed. This allows you to get rid of high-scoring dice, even doubles or triples, as long as you have somewhere for your matching die to go.
 
 While the game is luck-based, being strategic with your die placement is the best way to win consistently.
 
 contacts:
 tg - https://t.me/Busska
-+89120041278
-nikita_maximov05@mail.ru
+mail - nikita_maximov05@mail.ru
